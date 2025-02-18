@@ -1,4 +1,4 @@
-# About me 👋
+# About me
 
 I am a Computer Engineering student at the Federal University of Santa Catarina.
 
