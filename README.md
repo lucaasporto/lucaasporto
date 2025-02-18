@@ -1,4 +1,5 @@
 # About me
+![image](https://github.com/user-attachments/assets/e0979751-70e6-4e36-abf9-9eaafc72064b)
 
 I am a Computer Engineering student at the Federal University of Santa Catarina.
 ![Alt text](https://pngfre.com/wp-content/uploads/anime-poster.png)
