@@ -11,7 +11,7 @@ During my studies, I have had the opportunity to work with website development, 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&style=for-the-badge)
 ![Proteus](https://img.shields.io/badge/PROTEUS-1C79B3?logo=proteus&style=for-the-badge)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?logo=python&style=for-the-badge&logoColor=FFD343)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?logo=linux&style=for-the-badge&logoColor=black)
+![Linux](https://img.shields.io/badge/LINUX-d6b70d?logo=linux&style=for-the-badge&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?logo=postgresql&style=for-the-badge&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MONGODB-4169E1?logo=mongodb&style=for-the-badge&logoColor=47A248&color=black)
