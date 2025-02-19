@@ -1,16 +1,48 @@
-# About me
-![image](https://github.com/user-attachments/assets/e0979751-70e6-4e36-abf9-9eaafc72064b)
+# ✨ Welcome to My GitHub Profile!
+📌 Araranguá, SC, BR <br /> 📬 Reach out to me at: lucaasportoasis@gmail.com
 
-I am a Computer Engineering student at the Federal University of Santa Catarina.
-![Alt text](https://pngfre.com/wp-content/uploads/anime-poster.png)
-This profile will be used to share code developed from the 7th semester of the course, as well as extracurricular projects and solutions to programming challenges.
+## 📝 About me
+I am a Computer Engineering student at the Federal University of Santa Catarina, expected to graduate in December 2026. I have a strong interest in low-level programming languages and direct interaction with hardware, but I also strive to develop skills in high-level technologies.
 
-icone c++ ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-icone c++ ![C++](https://images7.alphacoders.com/135/1357343.png)
+## ⚙️ Experience & Technologies
+### Ⅰ − Undergraduate Studies
+During my studies, I have had the opportunity to work with website development, microcontroller programming, low-level languages, databases, and operating systems.
 
-![1351027](https://github.com/user-attachments/assets/a54a0e5c-81a7-4fd3-bfc6-2d8ce81b16cf)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&style=for-the-badge)
+![Proteus](https://img.shields.io/badge/PROTEUS-1C79B3?logo=proteus&style=for-the-badge)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?logo=python&style=for-the-badge&logoColor=FFD343)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?logo=linux&style=for-the-badge&logoColor=black)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?logo=postgresql&style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-4169E1?logo=mongodb&style=for-the-badge&logoColor=47A248&color=black)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?logo=javascript&style=for-the-badge&color=black)
+![Node](https://img.shields.io/badge/NODE-5FA04E?logo=node.js&style=for-the-badge&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESS-000000?logo=express&style=for-the-badge&logoColor=white)
+![Vue](https://img.shields.io/badge/VUE-4FC08D?logo=vue.js&style=for-the-badge&logoColor=white)
+![Framework7](https://img.shields.io/badge/FRAMEWORK7-EE350F?logo=framework7&style=for-the-badge&logoColor=white)
 
-![1351027](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Jqbm52eTdzejR2Y2k0ODR6ZTR5ZGdzZXY1aGw0cmZzZG16MTl2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ihYzl6Wza2jjn0ko6v/giphy.gif
-)![flying-14288](https://github.com/user-attachments/assets/3566f078-5652-4ab9-9f04-7700e24dc9a8)
-![1351027](https://i.gifer.com/fxac.gif
-)![flying-14288](https://github.com/user-attachments/assets/3566f078-5652-4ab9-9f04-7700e24dc9a8)
+### Ⅱ − Volunteer Project Advisor
+As a member of the volunteer group at the Computer Engineering Junior Enterprise, I gained experience in website development and maintenance.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge)
+![WordPress](https://img.shields.io/badge/WORDPRESS-21759B?logo=wordpress&style=for-the-badge)
+
+### Ⅲ − Extension Project Scholarship Holder
+Additionally, I worked as a scholarship holder in an extension project focused on automation and energy efficiency. In this role, I developed software for microcontrollers, designed printed circuit boards, and contributed to scientific analyses and publications.
+
+![C](https://img.shields.io/badge/C-00599C?logo=c&style=for-the-badge)
+![Arduino](https://img.shields.io/badge/ARDUINO-00878F?logo=arduino&style=for-the-badge)
+![EasyEDA](https://img.shields.io/badge/EASYEDA-1765F6?logo=easyeda&style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LATEX-00599C?logo=latex&style=for-the-badge&logoColor=white)
+![Mendeley](https://img.shields.io/badge/MENDELEY-00599C?logo=mendeley&style=for-the-badge&color=9D1620)
+
+☛ *It is important to note that I am not proficient in all these technologies, but I believe that every experience is valuable, as it provides familiarity with various tools. That’s why I consider it relevant to mention them.*
+
+## 📊 GitHub Metrics
+<a href="https://github-readme-stats.vercel.app/api?username=lucaasporto&show_icons=true&rank_icon=github&theme=swift&include_all_commits=true">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=lucaasporto&show_icons=true&rank_icon=github&theme=swift&include_all_commits=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaasporto&theme=swift">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaasporto&theme=swift" />
+</a>
