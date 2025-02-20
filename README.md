@@ -48,4 +48,3 @@ Additionally, I worked as a scholarship holder in an extension project focused o
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lucaasporto&theme=swift&card_width=720)](https://git.io/streak-stats)
-
