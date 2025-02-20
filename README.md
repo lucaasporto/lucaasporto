@@ -47,4 +47,5 @@ Additionally, I worked as a scholarship holder in an extension project focused o
   <img height=200  width=400 align="left" src="https://github-readme-stats.vercel.app/api?username=lucaasporto&show_icons=true&rank_icon=github&theme=swift&include_all_commits=true" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lucaasporto&theme=swift&card_width=720)](https://git.io/streak-stats)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaasporto&theme=swift" width="720">
+
