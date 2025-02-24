@@ -40,12 +40,7 @@ Additionally, I worked as a scholarship holder in an extension project focused o
 ☛ *It is important to note that I am not proficient in all these technologies, but I believe that every experience is valuable, as it provides familiarity with various tools. That’s why I consider it relevant to mention them.*
 
 ## 📊 GitHub Metrics
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaasporto&theme=swift">
-  <img height=200 width=300 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaasporto&theme=swift" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=lucaasporto&show_icons=true&rank_icon=github&theme=swift&include_all_commits=true">
-  <img height=200  width=400 align="left" src="https://github-readme-stats.vercel.app/api?username=lucaasporto&show_icons=true&rank_icon=github&theme=swift&include_all_commits=true" />
-</a>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaasporto&theme=swift" width="720">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaasporto&theme=swift&cache_seconds=0" />
+<img src="https://github-readme-stats.vercel.app/api?username=lucaasporto&show_icons=true&rank_icon=github&theme=swift&include_all_commits=true" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaasporto&theme=swift" />
