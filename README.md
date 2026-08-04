@@ -1,5 +1,5 @@
 # ✨ Welcome to My GitHub Profile!
-📌 Araranguá, SC, BR <br /> 📬 Reach out to me at: lucaasportoasis@gmail.com
+📌 SC, BR <br /> 📬 Reach out to me at: lucaasportoasis@gmail.com
 
 ## 📝 About me
 I am a Computer Engineering student at the Federal University of Santa Catarina, expected to graduate in December 2026. I have a strong interest in low-level programming languages and direct interaction with hardware, but I also strive to develop skills in high-level technologies.
