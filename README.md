@@ -96,7 +96,7 @@ I am a Computer Engineering student at the Federal University of Santa Catarina,
 <hr>
 
 <p>
-  Tech Stack: C/C++ · ESP32 · Python · Pygame · Bluetooth · Proteus
+  Tech Stack: C++ · ESP32 · Python · Pygame · Bluetooth · I²C · Proteus
 </p>
 
 </td>
