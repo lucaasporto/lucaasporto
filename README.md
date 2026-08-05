@@ -108,5 +108,5 @@ I am a Computer Engineering student at the Federal University of Santa Catarina,
 
 ## 📬 Let's Connect!
 
-📧 **Email:** [lucaasportoasis@gmail.com](mailto:lucaasportoasis@gmail.com)
+📧 **Email:** [lucaasportoasis@gmail.com](mailto:lucaasportoasis@gmail.com) <br>
 💼 **LinkedIn:** [linkedin.com/in/lucasportoribeiro/](https://www.linkedin.com/in/lucasportoribeiro/)
