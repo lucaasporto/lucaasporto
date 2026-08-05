@@ -132,6 +132,30 @@ Sou estudante de Engenharia de Computação na Universidade Federal de Santa Cat
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 [Sistema de Irrigação Automatizada para Hortas](https://github.com/lucaasporto/automated-garden-irrigation)
+
+* Sistema embarcado para irrigação automática de hortas e monitoramento ambiental utilizando um ESP8266, sensores e comunicação via Wi-Fi com a plataforma Blynk.
+* O sistema monitora continuamente a temperatura, umidade do ar e umidade do solo, acionando automaticamente uma bomba d'água quando a irrigação é necessária e permitindo monitoramento remoto e controle manual por meio de um aplicativo.
+
+<hr>
+
+<p>
+  Tecnologias: C++ · ESP8266 · Blynk · Wi-Fi · DHT11 · Sensor de Umidade do Solo · Módulo Relé · Bomba d'Água
+</p>
+
+</td>
+<td width="50%" valign="middle">
+
+<img src="images/automated-garden-irrigation.png" width="100%">
+
+</td>
+</tr>
+</table>
+
 ---
 
 *Fique à vontade para explorar os repositórios para obter documentação detalhada, esquemas de circuitos e códigos-fonte.*
