@@ -114,7 +114,7 @@ I am a Computer Engineering student at the Federal University of Santa Catarina,
 
 ### 🎟️ [Ticket Management Platform](https://github.com/lucaasporto/banco-de-dados-gestao-de-ingressos)
 
-* A database system designed for a ticket sales platform.
+* A relational database system designed for a ticket sales platform, with a structured model for managing users, events, ticket batches, and sales-related data.
 * Developed in Python with a MySQL connection, it covers the entire database lifecycle, including table creation, test data insertion, queries, and business rules for users, events, and lots.
 
 <hr>
