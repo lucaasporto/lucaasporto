@@ -23,7 +23,7 @@ I am a Computer Engineering student at the Federal University of Santa Catarina,
 </td>
 <td width="45%" valign="middle">
 
-<img src="images/tinyml_combat_glove.png" width="450">
+<img src="images/tinyml_combat_glove_.png" width="450">
 
 </td>
 </tr>
