@@ -24,7 +24,7 @@ I am a Computer Engineering student at the Federal University of Santa Catarina,
 <hr>
 
 <p>
-  Tech Stack: C++ · Arduino Nano 33 BLE Sense · TinyML · Edge Impulse · BLE · IMU
+  Technologies: C++ · Arduino Nano 33 BLE Sense · TinyML · Edge Impulse · BLE · IMU
 </p>
 
 </td>
@@ -48,7 +48,7 @@ I am a Computer Engineering student at the Federal University of Santa Catarina,
 <hr>
 
 <p>
-  Tech Stack: C++ · ESP32 · ADS1115 · CD74HC4067 · I²C · Wi-Fi · Google Sheets API · Mongoose · EasyEDA
+  Technologies: C++ · ESP32 · ADS1115 · CD74HC4067 · I²C · Wi-Fi · Google Sheets API · Mongoose · EasyEDA
 </p>
 
 </td>
@@ -72,7 +72,7 @@ I am a Computer Engineering student at the Federal University of Santa Catarina,
 <hr>
 
 <p>
-  Tech Stack: C · PIC24FJ128GA010 · FreeRTOS · MPLAB · XC16 · Proteus
+  Technologies: C · PIC24FJ128GA010 · FreeRTOS · MPLAB · XC16 · Proteus
 </p>
 
 </td>
@@ -96,7 +96,7 @@ I am a Computer Engineering student at the Federal University of Santa Catarina,
 <hr>
 
 <p>
-  Tech Stack: C++ · ESP32 · Python · Pygame · Bluetooth · I²C · Proteus
+  Technologies: C++ · ESP32 · Python · Pygame · Bluetooth · I²C · Proteus
 </p>
 
 </td>
@@ -120,13 +120,37 @@ I am a Computer Engineering student at the Federal University of Santa Catarina,
 <hr>
 
 <p>
-  Tech Stack: Python 3 · MySQL
+  Technologies: Python 3 · MySQL
 </p>
 
 </td>
 <td width="50%" valign="middle">
 
 <img src="images/ticket-management-database.png" width="100%">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 [Automated Garden Irrigation System](https://github.com/lucaasporto/automated-garden-irrigation)
+
+* An embedded system for automatic garden irrigation and environmental monitoring using an ESP8266, sensors, and Wi-Fi communication with the Blynk platform.
+* The system continuously monitors temperature, air humidity, and soil moisture, automatically controlling a water pump when irrigation is required and allowing remote monitoring and manual control through a mobile application.
+
+<hr>
+
+<p>
+  Technologies: C++ · ESP8266 · Blynk · Wi-Fi · DHT11 · Soil Moisture Sensor · Relay Module · Water Pump
+</p>
+
+</td>
+<td width="50%" valign="middle">
+
+<img src="images/automated-garden-irrigation.png" width="100%">
 
 </td>
 </tr>
