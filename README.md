@@ -1,3 +1,7 @@
+<div align="right">
+  🇺🇸 <strong>English</strong> | 🇧🇷 <a href="README.pt-br.md">Português</a>
+</div>
+
 # ✨ Welcome to My Portfolio!
 
 Here you will find projects focused on embedded systems, IoT, real-time operating systems, and software development. Below is a guide to the main repositories you can explore.
