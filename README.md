@@ -21,6 +21,12 @@ I am a Computer Engineering student at the Federal University of Santa Catarina,
 * This project is a wearable device capable of automatically identifying boxing punches using embedded Artificial Intelligence on an Arduino Nano 33 BLE Sense.
 * The system reads accelerometer and gyroscope data to infer the moves and makes the results available via Bluetooth Low Energy (BLE) in real time.
 
+<hr>
+
+<p>
+  Tech Stack: C++ · Arduino Nano 33 BLE Sense · TinyML · Edge Impulse · BLE · IMU
+</p>
+
 </td>
 <td width="50%" valign="middle">
 
@@ -38,6 +44,12 @@ I am a Computer Engineering student at the Federal University of Santa Catarina,
 
 * Low-cost and scalable continuous monitoring system for bioelectricity acquisition, specifically focused on microbial fuel cells.
 * Powered by an ESP32, it reads 12 simultaneous channels in the millivolt scale and automatically sends the processed batches to a Google Sheets document via Wi-Fi.
+
+<hr>
+
+<p>
+  Tech Stack: C++ · ESP32 · ADS1115 · CD74HC4067 · I²C · Wi-Fi · Google Sheets API · Mongoose · EasyEDA
+</p>
 
 </td>
 <td width="50%" valign="middle">
@@ -57,6 +69,12 @@ I am a Computer Engineering student at the Federal University of Santa Catarina,
 * An embedded application simulating a microwave oven to apply concepts of concurrent tasks, synchronization, queues, and interrupts.
 * The system was developed using a PIC24FJ128GA010 microcontroller and the FreeRTOS real-time operating system, with the electronic circuit and execution fully simulated in Proteus.
 
+<hr>
+
+<p>
+  Tech Stack: C · PIC24FJ128GA010 · FreeRTOS · MPLAB · XC16 · Proteus
+</p>
+
 </td>
 <td width="50%" valign="middle">
 
@@ -75,6 +93,12 @@ I am a Computer Engineering student at the Federal University of Santa Catarina,
 * A physical, intelligent board for 1D Chess that automatically registers matches and transmits them via Bluetooth to a computer.
 * It identifies the pieces using analog readings through resistors and integrates with a Python application built with Pygame to verify legal moves and record the game.
 
+<hr>
+
+<p>
+  Tech Stack: C/C++ · ESP32 · Python · Pygame · Bluetooth · Proteus
+</p>
+
 </td>
 <td width="50%" valign="middle">
 
@@ -92,6 +116,12 @@ I am a Computer Engineering student at the Federal University of Santa Catarina,
 
 * A database system designed for a ticket sales platform.
 * Developed in Python with a MySQL connection, it covers the entire database lifecycle, including table creation, test data insertion, queries, and business rules for users, events, and lots.
+
+<hr>
+
+<p>
+  Tech Stack: Python 3 · MySQL
+</p>
 
 </td>
 <td width="50%" valign="middle">
