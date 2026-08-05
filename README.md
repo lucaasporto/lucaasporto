@@ -19,7 +19,7 @@ I am a Computer Engineering student at the Federal University of Santa Catarina,
 * BioMon is a low-cost and scalable continuous monitoring system for bioelectricity acquisition, specifically focused on microbial fuel cells. 
 * Powered by an ESP32, it reads 12 simultaneous channels in the millivolt scale and automatically sends the processed batches to a Google Sheets document via Wi-Fi.
 
-### ♨️ [Simulador de Micro-ondas com FreeRTOS](https://github.com/lucaasporto/simulador-micro-ondas)
+### 🍽️ [Simulador de Micro-ondas com FreeRTOS](https://github.com/lucaasporto/simulador-micro-ondas)
 * An embedded application simulating a microwave oven to apply concepts of concurrent tasks, synchronization, queues, and interrupts.
 * The system was developed using a PIC24FJ128GA010 microcontroller and the FreeRTOS real-time operating system, with the electronic circuit and execution fully simulated in Proteus.
 
