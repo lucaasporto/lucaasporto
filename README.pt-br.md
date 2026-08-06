@@ -96,7 +96,7 @@ Sou estudante de Engenharia de Computação na Universidade Federal de Santa Cat
 <hr>
 
 <p>
-  Tecnologias: C++ · ESP32 · Python · Pygame · Bluetooth · I²C · LCD · Proteus
+  Tecnologias: C++ · ESP32 · Python · Pygame · Bluetooth · I²C · LCD
 </p>
 
 </td>
