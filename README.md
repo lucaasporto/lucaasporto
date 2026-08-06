@@ -96,7 +96,7 @@ I am a Computer Engineering student at the Federal University of Santa Catarina,
 <hr>
 
 <p>
-  Technologies: C++ · ESP32 · Python · Pygame · Bluetooth · I²C · LCD · Proteus
+  Technologies: C++ · ESP32 · Python · Pygame · Bluetooth · I²C · LCD
 </p>
 
 </td>
